@@ -17,7 +17,7 @@ XXX能有今天的快速发展，得益于开源软件群雄崛起的大环境�
 
 麻雀虽小，五脏俱全，本项目涉及多个平台，多种语言，简单关系如下：
 
-![ https://github.com/zhao7643562/secret/tree/zanedev/images /dog.png ]()
+![ Image text]( https://github.com/zhao7643562/secret/blob/zanedev/images/dog.png )
 
 **服务端**：
 
